@@ -1,0 +1,2820 @@
+[
+  {
+    "id": "ayur_adrak_001",
+    "name": "Adrak / Sonth",
+    "botanical_name": "Zingiber officinale Rosc.",
+    "synonyms": [
+      "Ardraka",
+      "Sunthi",
+      "Ginger"
+    ],
+    "condition": "Indigestion",
+    "remedy": [
+      "5 gm. crushed rhizome with salt or jaggery twice daily before meal."
+    ],
+    "search_keywords": [
+      "upset stomach",
+      "bloating",
+      "acid reflux",
+      "home remedy for indigestion",
+      "ginger for digestion"
+    ]
+  },
+  {
+    "id": "ayur_adrak_002",
+    "name": "Adrak / Sonth",
+    "botanical_name": "Zingiber officinale Rosc.",
+    "synonyms": [
+      "Ardraka",
+      "Sunthi",
+      "Ginger"
+    ],
+    "condition": "Ear Pain",
+    "remedy": [
+      "2-4 drops of fresh warm juice to be instilled in the ear."
+    ],
+    "safety_precautions": [
+      "Don't use when there is discharge."
+    ],
+    "search_keywords": [
+      "earache",
+      "otalgia",
+      "natural ear drops",
+      "ear infection remedy"
+    ]
+  },
+  {
+    "id": "ayur_adrak_003",
+    "name": "Adrak / Sonth",
+    "botanical_name": "Zingiber officinale Rosc.",
+    "synonyms": [
+      "Ardraka",
+      "Sunthi",
+      "Ginger"
+    ],
+    "condition": "Hoarseness of voice",
+    "remedy": [
+      "1-3 gm. powder of dry rhizome with honey in three divided doses."
+    ],
+    "search_keywords": [
+      "sore throat",
+      "loss of voice",
+      "raspy voice",
+      "throat irritation",
+      "dry ginger honey"
+    ]
+  },
+  {
+    "id": "ayur_adrak_004",
+    "name": "Adrak / Sonth",
+    "botanical_name": "Zingiber officinale Rosc.",
+    "synonyms": [
+      "Ardraka",
+      "Sunthi",
+      "Ginger"
+    ],
+    "condition": "Aches & pains",
+    "remedy": [
+      "10-20 ml. decoction prepared from 2 gm. of dry rhizome twice a day."
+    ],
+    "search_keywords": [
+      "body pain",
+      "joint pain",
+      "muscle ache",
+      "natural painkiller",
+      "dry ginger tea"
+    ]
+  },
+  {
+    "id": "ayur_adrak_005",
+    "name": "Adrak / Sonth",
+    "botanical_name": "Zingiber officinale Rosc.",
+    "synonyms": [
+      "Ardraka",
+      "Sunthi",
+      "Ginger"
+    ],
+    "condition": "Cold / Cough",
+    "remedy": [
+      "2-5 gm. powder of dry rhizome with jaggery thrice a day in divided doses.",
+      "10 ml. decoction prepared from a piece of ginger every morning prevents recurrent attack of cold."
+    ],
+    "search_keywords": [
+      "flu",
+      "decongestant",
+      "chest congestion",
+      "preventative cold remedy",
+      "ginger jaggery"
+    ]
+  },
+  {
+    "id": "ayur_adrak_006",
+    "name": "Adrak / Sonth",
+    "botanical_name": "Zingiber officinale Rosc.",
+    "synonyms": [
+      "Ardraka",
+      "Sunthi",
+      "Ginger"
+    ],
+    "condition": "Headache",
+    "remedy": [
+      "Warm paste should be applied over forehead upto 3-4 times a day."
+    ],
+    "search_keywords": [
+      "sinus headache",
+      "migraine relief",
+      "topical pain relief",
+      "ginger paste application"
+    ]
+  },
+  {
+    "id": "ayur_adrak_007",
+    "name": "Adrak / Sonth",
+    "botanical_name": "Zingiber officinale Rosc.",
+    "synonyms": [
+      "Ardraka",
+      "Sunthi",
+      "Ginger"
+    ],
+    "condition": "Abdominal pain",
+    "remedy": [
+      "5 ml. juice in a glass of butter milk with lemon & salt."
+    ],
+    "search_keywords": [
+      "stomach cramps",
+      "stomach ache",
+      "digestive distress",
+      "buttermilk ginger drink"
+    ]
+  },
+  {
+    "id": "ayur_ajvain_001",
+    "name": "Ajvain",
+    "botanical_name": "Trachyspermum ammi Sprague",
+    "synonyms": [
+      "Yavani",
+      "Carom Seeds",
+      "Bishop's Weed"
+    ],
+    "condition": "Piles",
+    "remedy": [
+      "1 gm. powder and 1 gm. black-salt with butter-milk twice daily."
+    ],
+    "search_keywords": [
+      "hemorrhoids",
+      "piles remedy",
+      "bowel discomfort",
+      "ajwain buttermilk",
+      "black salt"
+    ]
+  },
+  {
+    "id": "ayur_ajvain_002",
+    "name": "Ajvain",
+    "botanical_name": "Trachyspermum ammi Sprague",
+    "synonyms": [
+      "Yavani",
+      "Carom Seeds",
+      "Bishop's Weed"
+    ],
+    "condition": "Painful Menses",
+    "remedy": [
+      "1-2 gm. powder of seeds with warm milk thrice a day for 2-3 days."
+    ],
+    "search_keywords": [
+      "menstrual cramps",
+      "dysmenorrhea",
+      "period pain relief",
+      "painful periods",
+      "ajwain warm milk"
+    ]
+  },
+  {
+    "id": "ayur_ajvain_003",
+    "name": "Ajvain",
+    "botanical_name": "Trachyspermum ammi Sprague",
+    "synonyms": [
+      "Yavani",
+      "Carom Seeds",
+      "Bishop's Weed"
+    ],
+    "condition": "Urticaria (Skin allergy)",
+    "remedy": [
+      "1-2 gm. powder of seeds with water twice daily."
+    ],
+    "search_keywords": [
+      "hives",
+      "skin allergy",
+      "rash",
+      "itching",
+      "urticaria natural cure",
+      "allergic reaction"
+    ]
+  },
+  {
+    "id": "ayur_ajvain_004",
+    "name": "Ajvain",
+    "botanical_name": "Trachyspermum ammi Sprague",
+    "synonyms": [
+      "Yavani",
+      "Carom Seeds",
+      "Bishop's Weed"
+    ],
+    "condition": "Abdominal pain",
+    "remedy": [
+      "1 gm. powder with luke warm water twice or thrice."
+    ],
+    "search_keywords": [
+      "stomach ache",
+      "stomach cramps",
+      "gut pain",
+      "abdominal discomfort",
+      "lukewarm water"
+    ]
+  },
+  {
+    "id": "ayur_ajvain_005",
+    "name": "Ajvain",
+    "botanical_name": "Trachyspermum ammi Sprague",
+    "synonyms": [
+      "Yavani",
+      "Carom Seeds",
+      "Bishop's Weed"
+    ],
+    "condition": "Flatulence (gas)",
+    "remedy": [
+      "2 gm. ajvain powder with equal quantity of Saunf powder with warm water."
+    ],
+    "search_keywords": [
+      "bloating",
+      "gas relief",
+      "digestive gas",
+      "saunf and ajwain",
+      "fennel seeds",
+      "flatulence remedy"
+    ]
+  },
+  {
+    "id": "ayur_ajvain_006",
+    "name": "Ajvain",
+    "botanical_name": "Trachyspermum ammi Sprague",
+    "synonyms": [
+      "Yavani",
+      "Carom Seeds",
+      "Bishop's Weed"
+    ],
+    "condition": "Sinusitis",
+    "remedy": [
+      "Warm paste should be applied over forehead & little below the eyes in the morning."
+    ],
+    "search_keywords": [
+      "sinus pressure",
+      "forehead pain",
+      "sinus infection",
+      "facial pain relief",
+      "ajwain paste application"
+    ]
+  },
+  {
+    "id": "ayur_ajvain_007",
+    "name": "Ajvain",
+    "botanical_name": "Trachyspermum ammi Sprague",
+    "synonyms": [
+      "Yavani",
+      "Carom Seeds",
+      "Bishop's Weed"
+    ],
+    "condition": "Nasal block",
+    "remedy": [
+      "1-2 gm powder should be put in steaming water & vapour should be inhaled; 2-3 time a day."
+    ],
+    "search_keywords": [
+      "stuffy nose",
+      "nasal congestion",
+      "steam inhalation",
+      "blocked nose relief",
+      "sinus steam"
+    ]
+  },
+  {
+    "id": "ayur_ajvain_008",
+    "name": "Ajvain",
+    "botanical_name": "Trachyspermum ammi Sprague",
+    "synonyms": [
+      "Yavani",
+      "Carom Seeds",
+      "Bishop's Weed"
+    ],
+    "condition": "Loss of appetite",
+    "remedy": [
+      "1 gm. powder with warm water 1/2 hour before meals."
+    ],
+    "search_keywords": [
+      "poor appetite",
+      "low hunger",
+      "anorexia remedy",
+      "digestive stimulant",
+      "increase hunger"
+    ]
+  },
+  {
+    "id": "ayur_anar_001",
+    "name": "Anar",
+    "botanical_name": "Punica granatum Linn.",
+    "synonyms": [
+      "Dadima",
+      "Pomegranate"
+    ],
+    "condition": "Indigestion",
+    "general_note": "Highly nutritious fruit suitable for all; can be used in diet in any disease condition.",
+    "remedy": [
+      "10 ml. juice of fruit, 1 gm. black-salt or fried Jira powder with honey or sugar to hold inside mouth for sometime before food."
+    ],
+    "search_keywords": [
+      "upset stomach",
+      "poor digestion",
+      "digestive appetizer",
+      "pomegranate juice",
+      "black salt",
+      "cumin powder"
+    ]
+  },
+  {
+    "id": "ayur_anar_002",
+    "name": "Anar",
+    "botanical_name": "Punica granatum Linn.",
+    "synonyms": [
+      "Dadima",
+      "Pomegranate"
+    ],
+    "condition": "Bleeding piles",
+    "general_note": "Highly nutritious fruit suitable for all; can be used in diet in any disease condition.",
+    "remedy": [
+      "10 ml. juice of fruit with sugar twice a day.",
+      "Or 10 gm. powder of dry fruit rind with equal quantity of sugar twice a day."
+    ],
+    "search_keywords": [
+      "bleeding hemorrhoids",
+      "piles natural cure",
+      "pomegranate rind powder",
+      "bowel bleeding"
+    ]
+  },
+  {
+    "id": "ayur_anar_003",
+    "name": "Anar",
+    "botanical_name": "Punica granatum Linn.",
+    "synonyms": [
+      "Dadima",
+      "Pomegranate"
+    ],
+    "condition": "Diarrhea / Dysentery (Diahhoria/Dysentery)",
+    "general_note": "Highly nutritious fruit suitable for all; can be used in diet in any disease condition.",
+    "remedy": [
+      "10 ml. decoction of fruit skin thrice a day. Fruit may be eaten in plenty."
+    ],
+    "search_keywords": [
+      "loose motions",
+      "watery stool",
+      "dysentery remedy",
+      "pomegranate skin decoction",
+      "gut infection"
+    ]
+  },
+  {
+    "id": "ayur_anar_004",
+    "name": "Anar",
+    "botanical_name": "Punica granatum Linn.",
+    "synonyms": [
+      "Dadima",
+      "Pomegranate"
+    ],
+    "condition": "Hyper-acidity",
+    "general_note": "Highly nutritious fruit suitable for all; can be used in diet in any disease condition.",
+    "remedy": [
+      "10 ml. juice of fruit twice a day. Even the fruit may be eaten."
+    ],
+    "search_keywords": [
+      "acid reflux",
+      "heartburn",
+      "stomach acidity",
+      "pitta balance",
+      "natural antacid"
+    ]
+  },
+  {
+    "id": "ayur_anar_005",
+    "name": "Anar",
+    "botanical_name": "Punica granatum Linn.",
+    "synonyms": [
+      "Dadima",
+      "Pomegranate"
+    ],
+    "condition": "Bad breath",
+    "general_note": "Highly nutritious fruit suitable for all; can be used in diet in any disease condition.",
+    "remedy": [
+      "Gargling with the warm decoction prepared from fruit skin 3-4 time a day."
+    ],
+    "search_keywords": [
+      "halitosis",
+      "mouth odor",
+      "oral hygiene",
+      "pomegranate peel gargle",
+      "mouthwash"
+    ]
+  },
+  {
+    "id": "ayur_anar_006",
+    "name": "Anar",
+    "botanical_name": "Punica granatum Linn.",
+    "synonyms": [
+      "Dadima",
+      "Pomegranate"
+    ],
+    "condition": "Acne",
+    "general_note": "Highly nutritious fruit suitable for all; can be used in diet in any disease condition.",
+    "remedy": [
+      "Paste of seeds should be applied to affected part twice daily."
+    ],
+    "search_keywords": [
+      "pimples",
+      "skin breakouts",
+      "clear skin",
+      "pomegranate seed paste",
+      "topical acne treatment"
+    ]
+  },
+  {
+    "id": "ayur_amla_001",
+    "name": "Amla",
+    "botanical_name": "Emblica officinalis Gaertn.",
+    "synonyms": [
+      "Amalaki",
+      "Indian Gooseberry"
+    ],
+    "condition": "For general health",
+    "remedy": [
+      "Regular use of Amla provides nutrition and boosts good health."
+    ],
+    "search_keywords": [
+      "immunity booster",
+      "daily nutrition",
+      "health tonic",
+      "overall wellness",
+      "vitamin c source"
+    ]
+  },
+  {
+    "id": "ayur_amla_002",
+    "name": "Amla",
+    "botanical_name": "Emblica officinalis Gaertn.",
+    "synonyms": [
+      "Amalaki",
+      "Indian Gooseberry"
+    ],
+    "condition": "Hyper Acidity / Peptic Ulcer / Constipation",
+    "remedy": [
+      "3-5 gm. powdered fruit rind twice a day with milk.",
+      "Or 10-20 ml. fruit juice twice a day.",
+      "Even raw Amla can be eaten."
+    ],
+    "search_keywords": [
+      "heartburn",
+      "acid reflux",
+      "stomach ulcer",
+      "natural laxative",
+      "constipation relief",
+      "gut health"
+    ]
+  },
+  {
+    "id": "ayur_amla_003",
+    "name": "Amla",
+    "botanical_name": "Emblica officinalis Gaertn.",
+    "synonyms": [
+      "Amalaki",
+      "Indian Gooseberry"
+    ],
+    "condition": "Stress",
+    "remedy": [
+      "External application of 25-50 gm. of fruit rind ground in butter milk on the forehead."
+    ],
+    "search_keywords": [
+      "anxiety relief",
+      "cooling forehead paste",
+      "mental stress",
+      "headache",
+      "relaxation"
+    ]
+  },
+  {
+    "id": "ayur_amla_004",
+    "name": "Amla",
+    "botanical_name": "Emblica officinalis Gaertn.",
+    "synonyms": [
+      "Amalaki",
+      "Indian Gooseberry"
+    ],
+    "condition": "Diabetes",
+    "remedy": [
+      "10-20 ml. Fruit juice with 10-20 ml. juice of fresh rhizome of Haldi twice a day."
+    ],
+    "search_keywords": [
+      "high blood sugar",
+      "diabetes control",
+      "amla turmeric juice",
+      "glycemic management"
+    ]
+  },
+  {
+    "id": "ayur_amla_005",
+    "name": "Amla",
+    "botanical_name": "Emblica officinalis Gaertn.",
+    "synonyms": [
+      "Amalaki",
+      "Indian Gooseberry"
+    ],
+    "condition": "Greying of Hair / Hair fall / Dandruff",
+    "remedy": [
+      "Fruit rind soaked overnight in water for application on scalp two hours before bath.",
+      "Or paste prepared from fruit rind should be applied two hours before bath.",
+      "1-2 fresh fruits eaten every morning prevents hair fall & early greying."
+    ],
+    "search_keywords": [
+      "premature greying",
+      "scalp treatment",
+      "hair loss prevention",
+      "natural anti-dandruff",
+      "hair growth"
+    ]
+  },
+  {
+    "id": "ayur_amla_006",
+    "name": "Amla",
+    "botanical_name": "Emblica officinalis Gaertn.",
+    "synonyms": [
+      "Amalaki",
+      "Indian Gooseberry"
+    ],
+    "condition": "Bleeding gums",
+    "remedy": [
+      "Fine powder should be gently massaged to gums after brushing at least twice a day regularly."
+    ],
+    "search_keywords": [
+      "gum disease",
+      "gingivitis",
+      "oral hygiene",
+      "bleeding gums remedy",
+      "dental health"
+    ]
+  },
+  {
+    "id": "ayur_dalchini_001",
+    "name": "Dalchini",
+    "botanical_name": "Cinnamomum zeylanicum Blume",
+    "synonyms": [
+      "Tvak",
+      "Cinnamon"
+    ],
+    "condition": "Indigestion",
+    "general_note": "Commonly used spice that acts as a good digestive with a pleasant soothing flavour for the mind.",
+    "remedy": [
+      "2 gm. powder of bark with water twice a day."
+    ],
+    "search_keywords": [
+      "stomach ache",
+      "upset digestive system",
+      "cinnamon bark powder",
+      "natural digestive aid"
+    ]
+  },
+  {
+    "id": "ayur_dalchini_002",
+    "name": "Dalchini",
+    "botanical_name": "Cinnamomum zeylanicum Blume",
+    "synonyms": [
+      "Tvak",
+      "Cinnamon"
+    ],
+    "condition": "Loss of Appetite",
+    "general_note": "Commonly used spice that acts as a good digestive with a pleasant soothing flavour for the mind.",
+    "remedy": [
+      "2 gm. powder of equal parts of Dalchini and Ajvain for chewing in three divided doses before food."
+    ],
+    "search_keywords": [
+      "low hunger",
+      "appetite stimulant",
+      "poor digestion",
+      "dalchini ajwain powder",
+      "increase appetite"
+    ]
+  },
+  {
+    "id": "ayur_dalchini_003",
+    "name": "Dalchini",
+    "botanical_name": "Cinnamomum zeylanicum Blume",
+    "synonyms": [
+      "Tvak",
+      "Cinnamon"
+    ],
+    "condition": "Vomiting",
+    "general_note": "Commonly used spice that acts as a good digestive with a pleasant soothing flavour for the mind.",
+    "remedy": [
+      "1-2 gm. powder with honey thrice a day in divided doses."
+    ],
+    "search_keywords": [
+      "nausea",
+      "emesis",
+      "upset stomach remedy",
+      "cinnamon and honey",
+      "anti-emetic"
+    ]
+  },
+  {
+    "id": "ayur_dalchini_004",
+    "name": "Dalchini",
+    "botanical_name": "Cinnamomum zeylanicum Blume",
+    "synonyms": [
+      "Tvak",
+      "Cinnamon"
+    ],
+    "condition": "Tension headache",
+    "general_note": "Commonly used spice that acts as a good digestive with a pleasant soothing flavour for the mind.",
+    "remedy": [
+      "To be rubbed with water on a rough surface & applied to forehead."
+    ],
+    "search_keywords": [
+      "forehead pain",
+      "stress headache",
+      "topical headache paste",
+      "natural pain relief"
+    ]
+  },
+  {
+    "id": "ayur_dalchini_005",
+    "name": "Dalchini",
+    "botanical_name": "Cinnamomum zeylanicum Blume",
+    "synonyms": [
+      "Tvak",
+      "Cinnamon"
+    ],
+    "condition": "Mental tension",
+    "general_note": "Commonly used spice that acts as a good digestive with a pleasant soothing flavour for the mind.",
+    "remedy": [
+      "The aroma has soothing action on mind. Crushed pieces may be kept in hanky or near the pillow."
+    ],
+    "search_keywords": [
+      "stress relief",
+      "anxiety",
+      "calming aromatherapy",
+      "sleep aid",
+      "cinnamon scent"
+    ]
+  },
+  {
+    "id": "ayur_dalchini_006",
+    "name": "Dalchini",
+    "botanical_name": "Cinnamomum zeylanicum Blume",
+    "synonyms": [
+      "Tvak",
+      "Cinnamon"
+    ],
+    "condition": "Dry cough",
+    "general_note": "Commonly used spice that acts as a good digestive with a pleasant soothing flavour for the mind.",
+    "remedy": [
+      "Chewing controls the throat irritation and helps in dry cough."
+    ],
+    "search_keywords": [
+      "throat tickle",
+      "sore throat",
+      "natural cough remedy",
+      "dry throat relief",
+      "cinnamon chewing"
+    ]
+  },
+  {
+    "id": "ayur_dhania_001",
+    "name": "Dhania",
+    "botanical_name": "Coriandrum sativum Linn.",
+    "synonyms": [
+      "Dhanyaka",
+      "Coriander"
+    ],
+    "condition": "Cold / Cough",
+    "remedy": [
+      "20 ml. decoction prepared from 5 gm. coarse powder with sugar and turmeric powder thrice a day.",
+      "Or use of dhania powder as herbal tea every morning prevents cold, cough & problems related to digestion."
+    ],
+    "search_keywords": [
+      "flu",
+      "chest congestion",
+      "preventive herbal tea",
+      "coriander tea",
+      "cold and cough natural remedy"
+    ]
+  },
+  {
+    "id": "ayur_dhania_002",
+    "name": "Dhania",
+    "botanical_name": "Coriandrum sativum Linn.",
+    "synonyms": [
+      "Dhanyaka",
+      "Coriander"
+    ],
+    "condition": "Intestinal worms",
+    "remedy": [
+      "3-5 gm. powder with jaggery twice a day for 5 days."
+    ],
+    "search_keywords": [
+      "deworming",
+      "gut parasites",
+      "deworming home remedy",
+      "coriander jaggery",
+      "helminthiasis"
+    ]
+  },
+  {
+    "id": "ayur_dhania_003",
+    "name": "Dhania",
+    "botanical_name": "Coriandrum sativum Linn.",
+    "synonyms": [
+      "Dhanyaka",
+      "Coriander"
+    ],
+    "condition": "Sun stroke / Dehydration",
+    "remedy": [
+      "20 ml. decoction prepared from coarse powder with sugar and a pinch of salt frequently."
+    ],
+    "search_keywords": [
+      "heat stroke",
+      "summer rehydration",
+      "ORS alternative",
+      "cooling drink",
+      "heat exhaustion"
+    ]
+  },
+  {
+    "id": "ayur_dhania_004",
+    "name": "Dhania",
+    "botanical_name": "Coriandrum sativum Linn.",
+    "synonyms": [
+      "Dhanyaka",
+      "Coriander"
+    ],
+    "condition": "Indigestion",
+    "remedy": [
+      "20 ml. decoction prepared from 5 gm. coarse powder with a pinch of ginger powder thrice a day."
+    ],
+    "search_keywords": [
+      "upset stomach",
+      "gut health",
+      "coriander ginger decoction",
+      "bloating",
+      "digestive aid"
+    ]
+  },
+  {
+    "id": "ayur_dhania_005",
+    "name": "Dhania",
+    "botanical_name": "Coriandrum sativum Linn.",
+    "synonyms": [
+      "Dhanyaka",
+      "Coriander"
+    ],
+    "condition": "Fever",
+    "remedy": [
+      "20 ml. decoction from 5 gm. powder with sugar 3-4 times a day."
+    ],
+    "search_keywords": [
+      "high temperature",
+      "antipyretic",
+      "cooling herbal drink",
+      "fever reduction",
+      "coriander decoction"
+    ]
+  },
+  {
+    "id": "ayur_elaichi_001",
+    "name": "Elaichi",
+    "botanical_name": "Elettaria cardamomum Maton",
+    "synonyms": [
+      "Ela",
+      "Cardamom",
+      "Green Cardamom"
+    ],
+    "condition": "Hiccough (Hiccups)",
+    "remedy": [
+      "1-2 fruits to be chewed frequently (not more than 4/day)."
+    ],
+    "safety_precautions": [
+      "Do not exceed 4 fruits per day."
+    ],
+    "search_keywords": [
+      "hiccups remedy",
+      "stop hiccoughs",
+      "natural hiccup treatment",
+      "chewing cardamom"
+    ]
+  },
+  {
+    "id": "ayur_elaichi_002",
+    "name": "Elaichi",
+    "botanical_name": "Elettaria cardamomum Maton",
+    "synonyms": [
+      "Ela",
+      "Cardamom",
+      "Green Cardamom"
+    ],
+    "condition": "Vomiting",
+    "remedy": [
+      "250-500 mg powder of seeds fried in ghee thrice daily with honey."
+    ],
+    "search_keywords": [
+      "nausea",
+      "anti-emetic",
+      "stop vomiting",
+      "cardamom ghee honey",
+      "motion sickness"
+    ]
+  },
+  {
+    "id": "ayur_elaichi_003",
+    "name": "Elaichi",
+    "botanical_name": "Elettaria cardamomum Maton",
+    "synonyms": [
+      "Ela",
+      "Cardamom",
+      "Green Cardamom"
+    ],
+    "condition": "Bad breath",
+    "remedy": [
+      "1-2 seeds to be chewed frequently (not more than 4/day)."
+    ],
+    "safety_precautions": [
+      "Do not exceed 4 seeds per day."
+    ],
+    "search_keywords": [
+      "halitosis",
+      "oral mouth freshener",
+      "bad odor",
+      "natural breath freshener",
+      "chewing cardamom seeds"
+    ]
+  },
+  {
+    "id": "ayur_elaichi_004",
+    "name": "Elaichi",
+    "botanical_name": "Elettaria cardamomum Maton",
+    "synonyms": [
+      "Ela",
+      "Cardamom",
+      "Green Cardamom"
+    ],
+    "condition": "Diarrhoea / Vomiting",
+    "remedy": [
+      "Ash of the Elaichi skin 2 gm. with a little honey 4-5 times a day."
+    ],
+    "search_keywords": [
+      "loose motions",
+      "stomach flu",
+      "gastroenteritis",
+      "cardamom skin ash",
+      "dysentery relief"
+    ]
+  },
+  {
+    "id": "ayur_elaichi_005",
+    "name": "Elaichi",
+    "botanical_name": "Elettaria cardamomum Maton",
+    "synonyms": [
+      "Ela",
+      "Cardamom",
+      "Green Cardamom"
+    ],
+    "condition": "Cold",
+    "remedy": [
+      "20 ml. decoction prepared from 5 gm. Dhania, 1 gm Methi seeds, little turmeric powder should be taken 2-3 times/day."
+    ],
+    "search_keywords": [
+      "common cold",
+      "herbal decoction",
+      "coriander fenugreek tea",
+      "nasal congestion",
+      "flu remedy"
+    ]
+  },
+  {
+    "id": "ayur_elaichi_006",
+    "name": "Elaichi",
+    "botanical_name": "Elettaria cardamomum Maton",
+    "synonyms": [
+      "Ela",
+      "Cardamom",
+      "Green Cardamom"
+    ],
+    "condition": "Cough",
+    "remedy": [
+      "Little elaichi powder with a teaspoon full of honey 3-4 times a day.",
+      "Even chewing elaichi (Not more than 3 per day) frequently is helpful in dry as well as productive cough."
+    ],
+    "safety_precautions": [
+      "Do not chew more than 3 elaichi per day for cough relief."
+    ],
+    "search_keywords": [
+      "dry cough",
+      "productive cough",
+      "throat tickle",
+      "sore throat",
+      "cardamom and honey"
+    ]
+  },
+  {
+    "id": "ayur_ghee_001",
+    "name": "Ghee",
+    "botanical_name": "Clarified Butter",
+    "synonyms": [
+      "Ghrita",
+      "Clarified Butter"
+    ],
+    "condition": "Ulcer / Wounds / Burns",
+    "general_note": "Advocated as a vehicle for a number of medicines in Ayurvedic system. Judicious use of ghee is very good for physical as well as psychological health.",
+    "remedy": [
+      "Application over affected part frequently."
+    ],
+    "search_keywords": [
+      "wound healing",
+      "burn relief",
+      "topical ghee application",
+      "skin ulcers",
+      "soothing salve",
+      "skin recovery"
+    ]
+  },
+  {
+    "id": "ayur_ghee_002",
+    "name": "Ghee",
+    "botanical_name": "Clarified Butter",
+    "synonyms": [
+      "Ghrita",
+      "Clarified Butter"
+    ],
+    "condition": "Loss of Appetite",
+    "general_note": "Advocated as a vehicle for a number of medicines in Ayurvedic system. Judicious use of ghee is very good for physical as well as psychological health.",
+    "remedy": [
+      "With Hing and Jeera powder with food."
+    ],
+    "search_keywords": [
+      "low hunger",
+      "appetite stimulant",
+      "asafoetida cumin ghee",
+      "digestive booster",
+      "stimulate hunger"
+    ]
+  },
+  {
+    "id": "ayur_ghee_003",
+    "name": "Ghee",
+    "botanical_name": "Clarified Butter",
+    "synonyms": [
+      "Ghrita",
+      "Clarified Butter"
+    ],
+    "condition": "Memory",
+    "general_note": "Advocated as a vehicle for a number of medicines in Ayurvedic system. Judicious use of ghee is very good for physical as well as psychological health.",
+    "remedy": [
+      "Use of ghee everyday in children improves memory."
+    ],
+    "search_keywords": [
+      "brain health",
+      "cognitive booster",
+      "memory enhancement",
+      "children brain development",
+      "mental focus"
+    ]
+  },
+  {
+    "id": "ayur_ghee_004",
+    "name": "Ghee",
+    "botanical_name": "Clarified Butter",
+    "synonyms": [
+      "Ghrita",
+      "Clarified Butter"
+    ],
+    "condition": "Constipation",
+    "general_note": "Advocated as a vehicle for a number of medicines in Ayurvedic system. Judicious use of ghee is very good for physical as well as psychological health.",
+    "remedy": [
+      "5 ml. ghee put in a cup of warm milk should be taken with sugar at bed time."
+    ],
+    "search_keywords": [
+      "natural laxative",
+      "hard stool",
+      "bowel movement",
+      "bedtime milk ghee",
+      "constipation relief"
+    ]
+  },
+  {
+    "id": "ayur_haldi_001",
+    "name": "Haldi",
+    "botanical_name": "Curcuma longa Linn.",
+    "synonyms": [
+      "Haridra",
+      "Turmeric"
+    ],
+    "condition": "Diabetes",
+    "remedy": [
+      "10 ml. fresh juice with 10 ml. juice of Amla twice daily."
+    ],
+    "search_keywords": [
+      "high blood sugar",
+      "diabetes control",
+      "turmeric amla juice",
+      "blood glucose management"
+    ]
+  },
+  {
+    "id": "ayur_haldi_002",
+    "name": "Haldi",
+    "botanical_name": "Curcuma longa Linn.",
+    "synonyms": [
+      "Haridra",
+      "Turmeric"
+    ],
+    "condition": "Acne",
+    "remedy": [
+      "Application of paste to the affected part twice a day.",
+      "Use of Haldi with water, milk or cream on face gives glow to the skin & removes unwanted hair if used regularly."
+    ],
+    "search_keywords": [
+      "pimples",
+      "skin glow",
+      "facial paste",
+      "facial hair removal",
+      "clear skin",
+      "natural skin face pack"
+    ]
+  },
+  {
+    "id": "ayur_haldi_003",
+    "name": "Haldi",
+    "botanical_name": "Curcuma longa Linn.",
+    "synonyms": [
+      "Haridra",
+      "Turmeric"
+    ],
+    "condition": "Cold",
+    "remedy": [
+      "2 gm. powder with warm milk and sugar twice a day.",
+      "Decoction of 1 gm. Haldi powder or use of Haldi in herbal tea prevents all allergic problems."
+    ],
+    "search_keywords": [
+      "golden milk",
+      "turmeric milk",
+      "nasal congestion",
+      "allergy prevention",
+      "flu tea",
+      "immunity tea"
+    ]
+  },
+  {
+    "id": "ayur_haldi_004",
+    "name": "Haldi",
+    "botanical_name": "Curcuma longa Linn.",
+    "synonyms": [
+      "Haridra",
+      "Turmeric"
+    ],
+    "condition": "Wound / Ulcer / Skin disease",
+    "remedy": [
+      "To be washed with decoction of Haldi & paste of haldi should be applied. Paste made by mixing with Ghee/coconut oil should be applied over affected part."
+    ],
+    "search_keywords": [
+      "wound healing",
+      "antiseptic wash",
+      "natural ointment",
+      "skin ulcers",
+      "turmeric ghee coconut oil paste"
+    ]
+  },
+  {
+    "id": "ayur_haldi_005",
+    "name": "Haldi",
+    "botanical_name": "Curcuma longa Linn.",
+    "synonyms": [
+      "Haridra",
+      "Turmeric"
+    ],
+    "condition": "Skin allergy",
+    "remedy": [
+      "1-3 gm. powder should be taken with jaggery twice a day."
+    ],
+    "search_keywords": [
+      "hives",
+      "allergic reactions",
+      "skin rash",
+      "turmeric jaggery remedy",
+      "blood purifier"
+    ]
+  },
+  {
+    "id": "ayur_hing_001",
+    "name": "Hing",
+    "botanical_name": "Ferula narthex Boiss.",
+    "synonyms": [
+      "Hingu",
+      "Asafoetida"
+    ],
+    "condition": "Abdominal Pain",
+    "general_note": "Use of hing in daily diet is good for digestion & disorders related to it. Best way is to fry hing in little ghee before use.",
+    "remedy": [
+      "Stir and dissolve in water and apply on & around umbilicus. Specially in children or infants where there is abdominal distention this is very helpful.",
+      "1 gm. Hing fried in ghee with butter milk twice a day."
+    ],
+    "search_keywords": [
+      "stomach cramps",
+      "gas",
+      "colic pain in infants",
+      "bloating",
+      "hing belly button paste",
+      "asafoetida buttermilk"
+    ]
+  },
+  {
+    "id": "ayur_hing_002",
+    "name": "Hing",
+    "botanical_name": "Ferula narthex Boiss.",
+    "synonyms": [
+      "Hingu",
+      "Asafoetida"
+    ],
+    "condition": "Toothache",
+    "general_note": "Use of hing in daily diet is good for digestion & disorders related to it. Best way is to fry hing in little ghee before use.",
+    "remedy": [
+      "Keep fried Hing in carious tooth."
+    ],
+    "search_keywords": [
+      "dental pain",
+      "cavity pain",
+      "dental decay",
+      "natural toothache relief",
+      "asafoetida cavity application"
+    ]
+  },
+  {
+    "id": "ayur_hing_003",
+    "name": "Hing",
+    "botanical_name": "Ferula narthex Boiss.",
+    "synonyms": [
+      "Hingu",
+      "Asafoetida"
+    ],
+    "condition": "Loss of appetite",
+    "general_note": "Use of hing in daily diet is good for digestion & disorders related to it. Best way is to fry hing in little ghee before use.",
+    "remedy": [
+      "A pinch of Hing fried in ghee & a piece of adrak crushed should be taken with butter milk before food."
+    ],
+    "search_keywords": [
+      "low hunger",
+      "appetite stimulant",
+      "poor digestion",
+      "hing adrak buttermilk",
+      "digestive drink"
+    ]
+  },
+  {
+    "id": "ayur_jayphal_001",
+    "name": "Jayphal",
+    "botanical_name": "Myristica fragrans Houtt.",
+    "synonyms": [
+      "Jatiphala",
+      "Nutmeg"
+    ],
+    "condition": "Diarrhoea in children",
+    "remedy": [
+      "A pinch of powder or fruit rubbed on a clean surface with milk or water should be given 3-4 times a day."
+    ],
+    "search_keywords": [
+      "pediatric loose motions",
+      "child diarrhea remedy",
+      "nutmeg milk",
+      "infantile diarrhea",
+      "watery stool"
+    ]
+  },
+  {
+    "id": "ayur_jayphal_002",
+    "name": "Jayphal",
+    "botanical_name": "Myristica fragrans Houtt.",
+    "synonyms": [
+      "Jatiphala",
+      "Nutmeg"
+    ],
+    "condition": "Irritability",
+    "remedy": [
+      "If child is restless & irritable 1-2 pinch of powder given with milk acts as mild sedative. This may be used 3-4 times a day."
+    ],
+    "search_keywords": [
+      "restless child",
+      "natural sedative for kids",
+      "fussy baby",
+      "sleep aid for children",
+      "calming nutmeg milk"
+    ]
+  },
+  {
+    "id": "ayur_jayphal_003",
+    "name": "Jayphal",
+    "botanical_name": "Myristica fragrans Houtt.",
+    "synonyms": [
+      "Jatiphala",
+      "Nutmeg"
+    ],
+    "condition": "Black pigmentation",
+    "general_note": "Black pigmentation over the face is common complaint in ladies especially around menopausal age.",
+    "remedy": [
+      "Jayphal rubbed in milk and applied on such areas is helpful."
+    ],
+    "search_keywords": [
+      "melasma",
+      "hyperpigmentation",
+      "dark spots",
+      "menopausal facial spots",
+      "nutmeg milk paste",
+      "skin lightening"
+    ]
+  },
+  {
+    "id": "ayur_jayphal_004",
+    "name": "Jayphal",
+    "botanical_name": "Myristica fragrans Houtt.",
+    "synonyms": [
+      "Jatiphala",
+      "Nutmeg"
+    ],
+    "condition": "Abdominal pain",
+    "remedy": [
+      "If pain is due to diarrhoea 2 gm. powder with warm water should be taken 4-5 time a day. It reduces the motility of intestine thereby reducing pain."
+    ],
+    "search_keywords": [
+      "stomach cramps",
+      "diarrhea pain relief",
+      "intestinal motility",
+      "abdominal gut cramps",
+      "nutmeg warm water"
+    ]
+  },
+  {
+    "id": "ayur_jeera_001",
+    "name": "Jeera",
+    "botanical_name": "Cuminum cyminum Linn.",
+    "synonyms": [
+      "Jiraka",
+      "Cumin"
+    ],
+    "condition": "Indigestion",
+    "remedy": [
+      "3-6 gm. powder of fried Jeera and rock-salt with warm water thrice daily."
+    ],
+    "search_keywords": [
+      "upset stomach",
+      "gut health",
+      "cumin rock salt",
+      "roasted jeera powder",
+      "digestive aid"
+    ]
+  },
+  {
+    "id": "ayur_jeera_002",
+    "name": "Jeera",
+    "botanical_name": "Cuminum cyminum Linn.",
+    "synonyms": [
+      "Jiraka",
+      "Cumin"
+    ],
+    "condition": "Diarrhoea / Dysentery",
+    "remedy": [
+      "1-2 gm. powder of fried Jeera with 250 ml. butter milk four times daily."
+    ],
+    "search_keywords": [
+      "loose motions",
+      "watery stool",
+      "jeera buttermilk",
+      "gut infection",
+      "dysentery remedy"
+    ]
+  },
+  {
+    "id": "ayur_jeera_003",
+    "name": "Jeera",
+    "botanical_name": "Cuminum cyminum Linn.",
+    "synonyms": [
+      "Jiraka",
+      "Cumin"
+    ],
+    "condition": "Hyper-acidity",
+    "remedy": [
+      "5-10 gm. ghee boiled with Jeera should be taken with rice during meals."
+    ],
+    "search_keywords": [
+      "acid reflux",
+      "heartburn",
+      "stomach acidity",
+      "jeera ghee rice",
+      "natural antacid"
+    ]
+  },
+  {
+    "id": "ayur_jeera_004",
+    "name": "Jeera",
+    "botanical_name": "Cuminum cyminum Linn.",
+    "synonyms": [
+      "Jiraka",
+      "Cumin"
+    ],
+    "condition": "Skin disease",
+    "remedy": [
+      "1-2 gm. powder of fried Jeera with milk twice daily."
+    ],
+    "search_keywords": [
+      "skin infection",
+      "dermatological issues",
+      "roasted cumin milk",
+      "blood purifier"
+    ]
+  },
+  {
+    "id": "ayur_jeera_005",
+    "name": "Jeera",
+    "botanical_name": "Cuminum cyminum Linn.",
+    "synonyms": [
+      "Jiraka",
+      "Cumin"
+    ],
+    "condition": "Cold",
+    "remedy": [
+      "Warm decoction of 2 gm. Jeera, 5 gm. Dhania, 1 gm. Haldi, 1 gm. Methi powder and little pepper should be taken with honey / sugar with lemon two to three times."
+    ],
+    "search_keywords": [
+      "common cold",
+      "herbal decoction",
+      "immunity tea",
+      "flu remedy",
+      "cumin coriander turmeric tea"
+    ]
+  },
+  {
+    "id": "ayur_jeera_006",
+    "name": "Jeera",
+    "botanical_name": "Cuminum cyminum Linn.",
+    "synonyms": [
+      "Jiraka",
+      "Cumin"
+    ],
+    "condition": "Cough",
+    "remedy": [
+      "Either decoction (Jeera, Dhania, Haldi, Methi, pepper with honey/sugar and lemon) or chewing few grains frequently helps in dry as well as productive cough."
+    ],
+    "search_keywords": [
+      "dry cough",
+      "productive cough",
+      "throat tickle",
+      "chewing cumin seeds",
+      "natural cough remedy"
+    ]
+  },
+  {
+    "id": "ayur_kalimirach_001",
+    "name": "Kalimirach",
+    "botanical_name": "Piper nigrum Linn.",
+    "synonyms": [
+      "Maricha",
+      "Black Pepper"
+    ],
+    "condition": "Cough",
+    "remedy": [
+      "1 gm. powder of seeds with ghee and honey twice daily."
+    ],
+    "search_keywords": [
+      "throat tickle",
+      "chest congestion",
+      "black pepper ghee honey",
+      "cough remedy",
+      "natural expectorant"
+    ]
+  },
+  {
+    "id": "ayur_kalimirach_002",
+    "name": "Kalimirach",
+    "botanical_name": "Piper nigrum Linn.",
+    "synonyms": [
+      "Maricha",
+      "Black Pepper"
+    ],
+    "condition": "Skin diseases",
+    "remedy": [
+      "Little powder with coconut oil for local application."
+    ],
+    "search_keywords": [
+      "topical skin remedy",
+      "antimicrobial ointment",
+      "black pepper coconut oil",
+      "dermatological care"
+    ]
+  },
+  {
+    "id": "ayur_kalimirach_003",
+    "name": "Kalimirach",
+    "botanical_name": "Piper nigrum Linn.",
+    "synonyms": [
+      "Maricha",
+      "Black Pepper"
+    ],
+    "condition": "Hoarseness of voice",
+    "remedy": [
+      "1-2 gm. powder of seed fried with ghee twice daily, to keep in mouth."
+    ],
+    "search_keywords": [
+      "sore throat",
+      "raspy voice",
+      "voice loss",
+      "throat irritation",
+      "black pepper ghee lozenge"
+    ]
+  },
+  {
+    "id": "ayur_kalimirach_004",
+    "name": "Kalimirach",
+    "botanical_name": "Piper nigrum Linn.",
+    "synonyms": [
+      "Maricha",
+      "Black Pepper"
+    ],
+    "condition": "Hiccough",
+    "remedy": [
+      "1-2 gm. powder of seeds with sugar twice daily."
+    ],
+    "search_keywords": [
+      "hiccups remedy",
+      "stop hiccoughs",
+      "natural hiccup cure",
+      "black pepper sugar"
+    ]
+  },
+  {
+    "id": "ayur_kalimirach_005",
+    "name": "Kalimirach",
+    "botanical_name": "Piper nigrum Linn.",
+    "synonyms": [
+      "Maricha",
+      "Black Pepper"
+    ],
+    "condition": "Indigestion",
+    "remedy": [
+      "A pinch of powder with a piece of crushed ginger & rock salt should be taken before meal."
+    ],
+    "search_keywords": [
+      "digestive aid",
+      "pre-meal appetizer",
+      "upset stomach",
+      "black pepper ginger rock salt"
+    ]
+  },
+  {
+    "id": "ayur_kalimirach_006",
+    "name": "Kalimirach",
+    "botanical_name": "Piper nigrum Linn.",
+    "synonyms": [
+      "Maricha",
+      "Black Pepper"
+    ],
+    "condition": "Loss of appetite",
+    "remedy": [
+      "A pinch of powder with 2 tea spoon full of lemon juice with water 1/2 hour before food."
+    ],
+    "search_keywords": [
+      "low hunger",
+      "appetite stimulant",
+      "lemon pepper drink",
+      "increase appetite",
+      "digestive stimulant"
+    ]
+  },
+  {
+    "id": "ayur_kalimirach_007",
+    "name": "Kalimirach",
+    "botanical_name": "Piper nigrum Linn.",
+    "synonyms": [
+      "Maricha",
+      "Black Pepper"
+    ],
+    "condition": "Bleeding gums / tartar / bad breath",
+    "remedy": [
+      "Pinch of powder mixed with honey should be applied to gums after gargling with warm salt water twice a day."
+    ],
+    "search_keywords": [
+      "oral hygiene",
+      "gingivitis",
+      "tartar removal",
+      "halitosis",
+      "dental care",
+      "black pepper honey gum application"
+    ]
+  },
+  {
+    "id": "ayur_karela_001",
+    "name": "Karela",
+    "botanical_name": "Momordica charantia Linn.",
+    "synonyms": [
+      "Karavellaka",
+      "Bitter Gourd",
+      "Bitter Melon"
+    ],
+    "condition": "Indigestion",
+    "remedy": [
+      "5-10 ml. juice of fruit twice daily."
+    ],
+    "search_keywords": [
+      "upset stomach",
+      "digestive fruit juice",
+      "karela juice",
+      "gut health"
+    ]
+  },
+  {
+    "id": "ayur_karela_002",
+    "name": "Karela",
+    "botanical_name": "Momordica charantia Linn.",
+    "synonyms": [
+      "Karavellaka",
+      "Bitter Gourd",
+      "Bitter Melon"
+    ],
+    "condition": "Diabetes",
+    "remedy": [
+      "1-3 gm. powder of seeds with water twice a day."
+    ],
+    "search_keywords": [
+      "high blood sugar",
+      "blood glucose control",
+      "karela seed powder",
+      "natural diabetes remedy"
+    ]
+  },
+  {
+    "id": "ayur_karela_003",
+    "name": "Karela",
+    "botanical_name": "Momordica charantia Linn.",
+    "synonyms": [
+      "Karavellaka",
+      "Bitter Gourd",
+      "Bitter Melon"
+    ],
+    "condition": "Loss of appetite",
+    "remedy": [
+      "5-10 ml. juice with butter milk 1-2 times."
+    ],
+    "search_keywords": [
+      "low hunger",
+      "appetite stimulant",
+      "karela juice buttermilk",
+      "digestive tonic"
+    ]
+  },
+  {
+    "id": "ayur_karela_004",
+    "name": "Karela",
+    "botanical_name": "Momordica charantia Linn.",
+    "synonyms": [
+      "Karavellaka",
+      "Bitter Gourd",
+      "Bitter Melon"
+    ],
+    "condition": "Skin diseases",
+    "remedy": [
+      "5-10 ml. juice in every morning in empty stomach."
+    ],
+    "search_keywords": [
+      "blood purifier",
+      "skin cleansing",
+      "morning detox",
+      "dermatological remedy",
+      "karela juice skin"
+    ]
+  },
+  {
+    "id": "ayur_karela_005",
+    "name": "Karela",
+    "botanical_name": "Momordica charantia Linn.",
+    "synonyms": [
+      "Karavellaka",
+      "Bitter Gourd",
+      "Bitter Melon"
+    ],
+    "condition": "Intestinal worms",
+    "remedy": [
+      "10 ml juice with jaggery in the morning for 3 days."
+    ],
+    "search_keywords": [
+      "deworming",
+      "deworming remedy",
+      "gut parasite",
+      "bitter gourd jaggery",
+      "helminthes"
+    ]
+  },
+  {
+    "id": "ayur_karela_006",
+    "name": "Karela",
+    "botanical_name": "Momordica charantia Linn.",
+    "synonyms": [
+      "Karavellaka",
+      "Bitter Gourd",
+      "Bitter Melon"
+    ],
+    "condition": "Acne",
+    "remedy": [
+      "5-10 ml. juice in empty stomach once a day."
+    ],
+    "search_keywords": [
+      "pimples",
+      "clear skin",
+      "facial breakout",
+      "morning karela juice",
+      "blood purification"
+    ]
+  },
+  {
+    "id": "ayur_lahsun_001",
+    "name": "Lahsun",
+    "botanical_name": "Allium sativum Linn.",
+    "synonyms": [
+      "Rasona",
+      "Garlic"
+    ],
+    "condition": "Ear pain",
+    "remedy": [
+      "2-4 drops of warm fresh juice for instillation in ear twice a day (Don't use when there is discharge).",
+      "Or little paste boiled in coconut or mustard oil should be filled in ear 2-3 time a day."
+    ],
+    "safety_precautions": [
+      "Don't use fresh juice instillation when there is ear discharge."
+    ],
+    "search_keywords": [
+      "earache",
+      "ear infection",
+      "garlic ear drops",
+      "mustard oil garlic",
+      "ear canal discomfort"
+    ]
+  },
+  {
+    "id": "ayur_lahsun_002",
+    "name": "Lahsun",
+    "botanical_name": "Allium sativum Linn.",
+    "synonyms": [
+      "Rasona",
+      "Garlic"
+    ],
+    "condition": "Flatulence",
+    "remedy": [
+      "6 ml. juice with honey twice a day."
+    ],
+    "search_keywords": [
+      "gas",
+      "bloating",
+      "intestinal gas",
+      "garlic honey juice",
+      "digestive bloating relief"
+    ]
+  },
+  {
+    "id": "ayur_lahsun_003",
+    "name": "Lahsun",
+    "botanical_name": "Allium sativum Linn.",
+    "synonyms": [
+      "Rasona",
+      "Garlic"
+    ],
+    "condition": "Cough / Cold",
+    "remedy": [
+      "Crushed bulb boiled in water is to be taken with sugar."
+    ],
+    "search_keywords": [
+      "sore throat",
+      "nasal congestion",
+      "garlic tea",
+      "cough remedy",
+      "cold immunity decoction"
+    ]
+  },
+  {
+    "id": "ayur_lahsun_004",
+    "name": "Lahsun",
+    "botanical_name": "Allium sativum Linn.",
+    "synonyms": [
+      "Rasona",
+      "Garlic"
+    ],
+    "condition": "Joint pain",
+    "remedy": [
+      "5 gm. paste of bulb with honey or with food twice a day.",
+      "Warm paste mixed in any oil should be applied over the joint."
+    ],
+    "search_keywords": [
+      "arthritis pain",
+      "joint inflammation",
+      "topical garlic oil",
+      "joint swelling relief",
+      "garlic paste honey"
+    ]
+  },
+  {
+    "id": "ayur_laung_001",
+    "name": "Laung",
+    "botanical_name": "Syzygium aromaticum (L.) Merr & Perry",
+    "synonyms": [
+      "Lavanga",
+      "Clove"
+    ],
+    "condition": "Cough",
+    "remedy": [
+      "To be chewed frequently or 1 gm. powder with honey 2-3 times in divided doses.",
+      "20 ml warm decoction prepared by putting 1 gm. clove 3-4 times daily. It is useful both in dry and productive cough."
+    ],
+    "search_keywords": [
+      "dry cough",
+      "productive cough",
+      "throat irritation",
+      "clove honey remedy",
+      "clove decoction"
+    ]
+  },
+  {
+    "id": "ayur_laung_002",
+    "name": "Laung",
+    "botanical_name": "Syzygium aromaticum (L.) Merr & Perry",
+    "synonyms": [
+      "Lavanga",
+      "Clove"
+    ],
+    "condition": "Cold / Hiccough",
+    "remedy": [
+      "1-2 gm. of powder with honey in three divided doses."
+    ],
+    "search_keywords": [
+      "hiccups",
+      "common cold",
+      "clove powder honey",
+      "natural hiccup cure",
+      "nasal congestion"
+    ]
+  },
+  {
+    "id": "ayur_laung_003",
+    "name": "Laung",
+    "botanical_name": "Syzygium aromaticum (L.) Merr & Perry",
+    "synonyms": [
+      "Lavanga",
+      "Clove"
+    ],
+    "condition": "Indigestion",
+    "remedy": [
+      "1-2 gm. powder with warm water."
+    ],
+    "search_keywords": [
+      "upset stomach",
+      "digestive aid",
+      "clove powder warm water",
+      "gut motility"
+    ]
+  },
+  {
+    "id": "ayur_laung_004",
+    "name": "Laung",
+    "botanical_name": "Syzygium aromaticum (L.) Merr & Perry",
+    "synonyms": [
+      "Lavanga",
+      "Clove"
+    ],
+    "condition": "Tooth ache",
+    "remedy": [
+      "Crushed clove should be kept in carious tooth."
+    ],
+    "search_keywords": [
+      "dental pain",
+      "cavity pain",
+      "clove for toothache",
+      "dental decay",
+      "natural numbing agent"
+    ]
+  },
+  {
+    "id": "ayur_laung_005",
+    "name": "Laung",
+    "botanical_name": "Syzygium aromaticum (L.) Merr & Perry",
+    "synonyms": [
+      "Lavanga",
+      "Clove"
+    ],
+    "condition": "Bad breath",
+    "remedy": [
+      "Small piece should be chewed frequently."
+    ],
+    "search_keywords": [
+      "halitosis",
+      "oral freshness",
+      "mouth freshener",
+      "chewing clove",
+      "oral hygiene"
+    ]
+  },
+  {
+    "id": "ayur_laung_006",
+    "name": "Laung",
+    "botanical_name": "Syzygium aromaticum (L.) Merr & Perry",
+    "synonyms": [
+      "Lavanga",
+      "Clove"
+    ],
+    "condition": "Ear pain",
+    "remedy": [
+      "Warm coconut oil prepared by boiling the powder of Laung should be filled in ear twice daily (Do not use when there is discharge)."
+    ],
+    "safety_precautions": [
+      "Do not use when there is ear discharge."
+    ],
+    "search_keywords": [
+      "earache",
+      "clove coconut oil ear drop",
+      "ear canal discomfort",
+      "soothing ear oil"
+    ]
+  },
+  {
+    "id": "ayur_madhu_001",
+    "name": "Madhu",
+    "botanical_name": "Honey",
+    "synonyms": [
+      "Honey",
+      "Madhu"
+    ],
+    "condition": "Obesity",
+    "general_note": "It is commonly prescribed by Ayurvedic doctors as vehicle with medicine especially in respiratory disorders.",
+    "remedy": [
+      "One teaspoon with glass of water in the morning."
+    ],
+    "safety_precautions": [
+      "Honey should not be boiled."
+    ],
+    "search_keywords": [
+      "weight loss",
+      "morning honey water",
+      "fat loss",
+      "obesity remedy",
+      "natural detox"
+    ]
+  },
+  {
+    "id": "ayur_madhu_002",
+    "name": "Madhu",
+    "botanical_name": "Honey",
+    "synonyms": [
+      "Honey",
+      "Madhu"
+    ],
+    "condition": "Loss Appetite",
+    "general_note": "It is commonly prescribed by Ayurvedic doctors as vehicle with medicine especially in respiratory disorders.",
+    "remedy": [
+      "With a pinch of pepper powder three to four times a day."
+    ],
+    "safety_precautions": [
+      "Honey should not be boiled."
+    ],
+    "search_keywords": [
+      "low hunger",
+      "appetite stimulant",
+      "honey pepper powder",
+      "digestive aid",
+      "stimulate appetite"
+    ]
+  },
+  {
+    "id": "ayur_madhu_003",
+    "name": "Madhu",
+    "botanical_name": "Honey",
+    "synonyms": [
+      "Honey",
+      "Madhu"
+    ],
+    "condition": "Cough",
+    "general_note": "It is commonly prescribed by Ayurvedic doctors as vehicle with medicine especially in respiratory disorders.",
+    "remedy": [
+      "With a pinch of powder of Laung three to four times."
+    ],
+    "safety_precautions": [
+      "Honey should not be boiled."
+    ],
+    "search_keywords": [
+      "sore throat",
+      "clove honey",
+      "throat tickle",
+      "natural cough relief",
+      "respiratory care"
+    ]
+  },
+  {
+    "id": "ayur_madhu_004",
+    "name": "Madhu",
+    "botanical_name": "Honey",
+    "synonyms": [
+      "Honey",
+      "Madhu"
+    ],
+    "condition": "Wounds / Ulcer / Burn",
+    "general_note": "It is commonly prescribed by Ayurvedic doctors as vehicle with medicine especially in respiratory disorders.",
+    "remedy": [
+      "Honey and ghee should be mixed and applied."
+    ],
+    "safety_precautions": [
+      "Honey should not be boiled."
+    ],
+    "search_keywords": [
+      "wound healing",
+      "burn ointment",
+      "skin ulcers",
+      "honey ghee mix",
+      "soothing salve"
+    ]
+  },
+  {
+    "id": "ayur_madhu_005",
+    "name": "Madhu",
+    "botanical_name": "Honey",
+    "synonyms": [
+      "Honey",
+      "Madhu"
+    ],
+    "condition": "Pyorrhoea / Bleeding gums",
+    "general_note": "It is commonly prescribed by Ayurvedic doctors as vehicle with medicine especially in respiratory disorders.",
+    "remedy": [
+      "Apply mixture of ginger, pepper, rock salt, honey & Ghee to the gums twice a day."
+    ],
+    "safety_precautions": [
+      "Honey should not be boiled."
+    ],
+    "search_keywords": [
+      "gum disease",
+      "bleeding gums",
+      "oral hygiene",
+      "pyorrhea remedy",
+      "ginger pepper honey ghee paste"
+    ]
+  },
+  {
+    "id": "ayur_madhu_006",
+    "name": "Madhu",
+    "botanical_name": "Honey",
+    "synonyms": [
+      "Honey",
+      "Madhu"
+    ],
+    "condition": "Face pack",
+    "general_note": "It is commonly prescribed by Ayurvedic doctors as vehicle with medicine especially in respiratory disorders.",
+    "remedy": [
+      "Application of honey gives glow to the skin."
+    ],
+    "safety_precautions": [
+      "Honey should not be boiled."
+    ],
+    "search_keywords": [
+      "skin glow",
+      "natural face pack",
+      "facial care",
+      "glowing skin",
+      "honey application"
+    ]
+  },
+  {
+    "id": "ayur_methi_001",
+    "name": "Methi",
+    "botanical_name": "Trigonella foenum-graecum Linn.",
+    "synonyms": [
+      "Methika",
+      "Fenugreek"
+    ],
+    "condition": "Diabetes",
+    "remedy": [
+      "2 gm. powder with milk twice daily."
+    ],
+    "search_keywords": [
+      "high blood sugar",
+      "blood glucose control",
+      "fenugreek powder milk",
+      "natural diabetes remedy"
+    ]
+  },
+  {
+    "id": "ayur_methi_002",
+    "name": "Methi",
+    "botanical_name": "Trigonella foenum-graecum Linn.",
+    "synonyms": [
+      "Methika",
+      "Fenugreek"
+    ],
+    "condition": "Body ache",
+    "remedy": [
+      "2 gm. powder mixed with 2 gm. Jeera powder with warm milk and sugar twice daily."
+    ],
+    "search_keywords": [
+      "body pain",
+      "muscle soreness",
+      "methi jeera warm milk",
+      "pain relief",
+      "body stiffness"
+    ]
+  },
+  {
+    "id": "ayur_methi_003",
+    "name": "Methi",
+    "botanical_name": "Trigonella foenum-graecum Linn.",
+    "synonyms": [
+      "Methika",
+      "Fenugreek"
+    ],
+    "condition": "Lactation (To increase mother's milk)",
+    "remedy": [
+      "5 gm. powder with milk and sugar in the morning."
+    ],
+    "search_keywords": [
+      "breastfeeding",
+      "boost breast milk",
+      "galactagogue",
+      "lactation support",
+      "fenugreek milk"
+    ]
+  },
+  {
+    "id": "ayur_methi_004",
+    "name": "Methi",
+    "botanical_name": "Trigonella foenum-graecum Linn.",
+    "synonyms": [
+      "Methika",
+      "Fenugreek"
+    ],
+    "condition": "Dandruff",
+    "remedy": [
+      "Scalp should be massaged with paste mixed in the water 1/2 hour before bath.",
+      "Coconut oil boiled with methi powder should be used regularly.",
+      "Use of methi paste acts as a good hair conditioner."
+    ],
+    "search_keywords": [
+      "scalp health",
+      "dry scalp",
+      "hair conditioning",
+      "methi hair mask",
+      "fenugreek coconut oil",
+      "hair care"
+    ]
+  },
+  {
+    "id": "ayur_nariyal_001",
+    "name": "Nariyal",
+    "botanical_name": "Cocos nucifera Linn.",
+    "synonyms": [
+      "Narikela",
+      "Coconut"
+    ],
+    "condition": "Hyper-acidity",
+    "remedy": [
+      "Tender coconut water twice daily."
+    ],
+    "search_keywords": [
+      "acid reflux",
+      "heartburn",
+      "tender coconut water",
+      "natural antacid",
+      "stomach acidity"
+    ]
+  },
+  {
+    "id": "ayur_nariyal_002",
+    "name": "Nariyal",
+    "botanical_name": "Cocos nucifera Linn.",
+    "synonyms": [
+      "Narikela",
+      "Coconut"
+    ],
+    "condition": "Kidney stone",
+    "remedy": [
+      "Tender coconut water twice daily."
+    ],
+    "search_keywords": [
+      "renal calculi",
+      "kidney stone flush",
+      "tender coconut water",
+      "urinary system health"
+    ]
+  },
+  {
+    "id": "ayur_nariyal_003",
+    "name": "Nariyal",
+    "botanical_name": "Cocos nucifera Linn.",
+    "synonyms": [
+      "Narikela",
+      "Coconut"
+    ],
+    "condition": "Wounds / Ulcer / Burn",
+    "remedy": [
+      "Oil should be applied frequently."
+    ],
+    "search_keywords": [
+      "topical coconut oil",
+      "wound healing",
+      "burn ointment",
+      "skin ulcer",
+      "soothing skin salve"
+    ]
+  },
+  {
+    "id": "ayur_nariyal_004",
+    "name": "Nariyal",
+    "botanical_name": "Cocos nucifera Linn.",
+    "synonyms": [
+      "Narikela",
+      "Coconut"
+    ],
+    "condition": "Dehydration",
+    "remedy": [
+      "Tender coconut water should be taken frequently."
+    ],
+    "search_keywords": [
+      "rehydration",
+      "natural electrolytes",
+      "fluid replacement",
+      "tender coconut water",
+      "heat recovery"
+    ]
+  },
+  {
+    "id": "ayur_nariyal_005",
+    "name": "Nariyal",
+    "botanical_name": "Cocos nucifera Linn.",
+    "synonyms": [
+      "Narikela",
+      "Coconut"
+    ],
+    "condition": "Hair fall",
+    "remedy": [
+      "Coconut oil processed with Methi powder and Amla powder should be used regularly."
+    ],
+    "search_keywords": [
+      "hair loss control",
+      "hair growth oil",
+      "methi amla coconut oil",
+      "scalp nourishment"
+    ]
+  },
+  {
+    "id": "ayur_nariyal_006",
+    "name": "Nariyal",
+    "botanical_name": "Cocos nucifera Linn.",
+    "synonyms": [
+      "Narikela",
+      "Coconut"
+    ],
+    "condition": "Sun stroke",
+    "remedy": [
+      "Tender coconut water should be taken frequently."
+    ],
+    "search_keywords": [
+      "heat stroke",
+      "body coolant",
+      "heat exhaustion",
+      "tender coconut water",
+      "thermal relief"
+    ]
+  },
+  {
+    "id": "ayur_neem_001",
+    "name": "Neem",
+    "botanical_name": "Azadirachta indica A. juss.",
+    "synonyms": [
+      "Nimba",
+      "Neem"
+    ],
+    "condition": "Skin disease",
+    "remedy": [
+      "10 ml. juice of leaves with honey twice a day."
+    ],
+    "search_keywords": [
+      "blood purifier",
+      "dermatological issues",
+      "neem leaf juice honey",
+      "skin infection relief",
+      "natural detox"
+    ]
+  },
+  {
+    "id": "ayur_neem_002",
+    "name": "Neem",
+    "botanical_name": "Azadirachta indica A. juss.",
+    "synonyms": [
+      "Nimba",
+      "Neem"
+    ],
+    "condition": "Wounds / Ulcer",
+    "remedy": [
+      "Warm application of paste prepared from leaves over affected part."
+    ],
+    "search_keywords": [
+      "antiseptic leaf paste",
+      "wound healing",
+      "skin ulcer",
+      "topical neem paste",
+      "skin infection"
+    ]
+  },
+  {
+    "id": "ayur_neem_003",
+    "name": "Neem",
+    "botanical_name": "Azadirachta indica A. juss.",
+    "synonyms": [
+      "Nimba",
+      "Neem"
+    ],
+    "condition": "Intestinal worms",
+    "remedy": [
+      "20 ml decoction made from hand full of leaves should be given in empty stomach for three days."
+    ],
+    "search_keywords": [
+      "deworming",
+      "gut parasites",
+      "deworming remedy",
+      "neem leaf decoction",
+      "anthelmintic"
+    ]
+  },
+  {
+    "id": "ayur_neem_004",
+    "name": "Neem",
+    "botanical_name": "Azadirachta indica A. juss.",
+    "synonyms": [
+      "Nimba",
+      "Neem"
+    ],
+    "condition": "Loss of appetite",
+    "remedy": [
+      "20 ml. decoction made from hand full of leaves should be given in empty stomach for three days."
+    ],
+    "search_keywords": [
+      "low hunger",
+      "appetite stimulant",
+      "bitter digestive tonic",
+      "neem leaf decoction",
+      "stimulate appetite"
+    ]
+  },
+  {
+    "id": "ayur_neem_005",
+    "name": "Neem",
+    "botanical_name": "Azadirachta indica A. juss.",
+    "synonyms": [
+      "Nimba",
+      "Neem"
+    ],
+    "condition": "Dandruff / Ring worm",
+    "remedy": [
+      "Decoction made from hand full of leaves should be applied to scalp one hour before bath."
+    ],
+    "search_keywords": [
+      "scalp health",
+      "fungal skin infection",
+      "tinea",
+      "ringworm",
+      "neem scalp rinse",
+      "anti-dandruff"
+    ]
+  },
+  {
+    "id": "ayur_nimbu_001",
+    "name": "Nimbu",
+    "botanical_name": "Citrus limon Linn.",
+    "synonyms": [
+      "Nimbu",
+      "Lemon"
+    ],
+    "condition": "Indigestion",
+    "remedy": [
+      "5-10 ml. juice with a pinch of salt and pepper before food."
+    ],
+    "search_keywords": [
+      "upset stomach",
+      "lemon juice salt pepper",
+      "digestive aid",
+      "indigestion relief"
+    ]
+  },
+  {
+    "id": "ayur_nimbu_002",
+    "name": "Nimbu",
+    "botanical_name": "Citrus limon Linn.",
+    "synonyms": [
+      "Nimbu",
+      "Lemon"
+    ],
+    "condition": "Dehydration / Sun stroke",
+    "remedy": [
+      "One Nimbu squeezed into a glass of water mixed with salt and sugar."
+    ],
+    "search_keywords": [
+      "lemonade",
+      "electrolyte drink",
+      "heat stroke",
+      "rehydration",
+      "body coolant"
+    ]
+  },
+  {
+    "id": "ayur_nimbu_003",
+    "name": "Nimbu",
+    "botanical_name": "Citrus limon Linn.",
+    "synonyms": [
+      "Nimbu",
+      "Lemon"
+    ],
+    "condition": "Bleeding gums",
+    "remedy": [
+      "The fruit skin should be crushed & rubbed gently twice a day regularly to the gums."
+    ],
+    "search_keywords": [
+      "oral health",
+      "gum bleeding",
+      "lemon peel oral care",
+      "vitamin c gums"
+    ]
+  },
+  {
+    "id": "ayur_nimbu_004",
+    "name": "Nimbu",
+    "botanical_name": "Citrus limon Linn.",
+    "synonyms": [
+      "Nimbu",
+      "Lemon"
+    ],
+    "condition": "Loss of appetite",
+    "remedy": [
+      "5 ml. juice with salt and a pinch of pepper before meals."
+    ],
+    "search_keywords": [
+      "low hunger",
+      "appetite stimulant",
+      "lemon pepper juice",
+      "stimulate appetite"
+    ]
+  },
+  {
+    "id": "ayur_nimbu_005",
+    "name": "Nimbu",
+    "botanical_name": "Citrus limon Linn.",
+    "synonyms": [
+      "Nimbu",
+      "Lemon"
+    ],
+    "condition": "Hair fall",
+    "remedy": [
+      "Coconut oil processed with the fruit skin dried & powdered."
+    ],
+    "search_keywords": [
+      "hair loss control",
+      "lemon peel oil",
+      "coconut oil hair mask",
+      "scalp care"
+    ]
+  },
+  {
+    "id": "ayur_nimbu_006",
+    "name": "Nimbu",
+    "botanical_name": "Citrus limon Linn.",
+    "synonyms": [
+      "Nimbu",
+      "Lemon"
+    ],
+    "condition": "Vomiting",
+    "remedy": [
+      "5-10 ml juice mixed with water, sugar and a pinch of salt frequently in small quantities."
+    ],
+    "search_keywords": [
+      "nausea",
+      "rehydration drink",
+      "anti-emetic",
+      "home remedy vomiting",
+      "lemon salt sugar solution"
+    ]
+  },
+  {
+    "id": "ayur_pyaj_001",
+    "name": "Pyaj",
+    "botanical_name": "Allium cepa Linn.",
+    "synonyms": [
+      "Palandu",
+      "Onion"
+    ],
+    "condition": "Sun stroke",
+    "general_note": "White variety of onion is considered as best.",
+    "remedy": [
+      "Use plenty of onion for prevention of sun stroke."
+    ],
+    "search_keywords": [
+      "heat stroke prevention",
+      "body coolant",
+      "onion sunstroke remedy",
+      "heat exhaustion"
+    ]
+  },
+  {
+    "id": "ayur_pyaj_002",
+    "name": "Pyaj",
+    "botanical_name": "Allium cepa Linn.",
+    "synonyms": [
+      "Palandu",
+      "Onion"
+    ],
+    "condition": "Cold / cough",
+    "general_note": "White variety of onion is considered as best.",
+    "remedy": [
+      "In children the decoction made from a piece should be given with Jaggery thrice daily."
+    ],
+    "search_keywords": [
+      "pediatric cold",
+      "cough remedy for kids",
+      "onion jaggery decoction",
+      "throat congestion"
+    ]
+  },
+  {
+    "id": "ayur_pyaj_003",
+    "name": "Pyaj",
+    "botanical_name": "Allium cepa Linn.",
+    "synonyms": [
+      "Palandu",
+      "Onion"
+    ],
+    "condition": "Dysentery",
+    "general_note": "White variety of onion is considered as best.",
+    "remedy": [
+      "White onion chopped & fried in ghee should be eaten with rice."
+    ],
+    "search_keywords": [
+      "loose motions",
+      "gut infection",
+      "white onion ghee rice",
+      "diarrhea relief",
+      "digestive soothing"
+    ]
+  },
+  {
+    "id": "ayur_pippali_001",
+    "name": "Pippali",
+    "botanical_name": "Piper longum Linn.",
+    "synonyms": [
+      "Pippali",
+      "Long Pepper"
+    ],
+    "condition": "Indigestion",
+    "remedy": [
+      "2gm. powder with guda twice daily before meal."
+    ],
+    "search_keywords": [
+      "upset stomach",
+      "digestive aid",
+      "pippali guda",
+      "long pepper jaggery",
+      "indigestion relief"
+    ]
+  },
+  {
+    "id": "ayur_pippali_002",
+    "name": "Pippali",
+    "botanical_name": "Piper longum Linn.",
+    "synonyms": [
+      "Pippali",
+      "Long Pepper"
+    ],
+    "condition": "Cold / Cough",
+    "remedy": [
+      "2 gm. powder with honey thrice a day in divided doses.",
+      "10-20 ml. decoction with 2-3 gm powder of Pippali, ginger, black pepper with sugar or honey 2-3 times a day."
+    ],
+    "search_keywords": [
+      "sore throat",
+      "chest congestion",
+      "pippali honey",
+      "long pepper decoction",
+      "ginger black pepper cough remedy"
+    ]
+  },
+  {
+    "id": "ayur_pippali_003",
+    "name": "Pippali",
+    "botanical_name": "Piper longum Linn.",
+    "synonyms": [
+      "Pippali",
+      "Long Pepper"
+    ],
+    "condition": "Pyorrhoea",
+    "remedy": [
+      "Decoction of Pippali with honey & ghee to keep inside mouth for some time in the morning & before bed time."
+    ],
+    "search_keywords": [
+      "gum disease",
+      "bleeding gums",
+      "oral hygiene",
+      "mouth rinse",
+      "pyorrhea treatment",
+      "pippali honey ghee"
+    ]
+  },
+  {
+    "id": "ayur_pippali_004",
+    "name": "Pippali",
+    "botanical_name": "Piper longum Linn.",
+    "synonyms": [
+      "Pippali",
+      "Long Pepper"
+    ],
+    "condition": "Diarrhoea",
+    "remedy": [
+      "Mix 2-3 gm. powder in 1 litre butter milk and divide equally into 4 parts. Take 1 part 6th hourly."
+    ],
+    "search_keywords": [
+      "loose motions",
+      "gut health",
+      "pippali buttermilk",
+      "digestive disorder",
+      "dysentery relief"
+    ]
+  },
+  {
+    "id": "ayur_pippali_005",
+    "name": "Pippali",
+    "botanical_name": "Piper longum Linn.",
+    "synonyms": [
+      "Pippali",
+      "Long Pepper"
+    ],
+    "condition": "Cold with fever",
+    "remedy": [
+      "2 gm. powder with honey twice daily."
+    ],
+    "search_keywords": [
+      "viral fever",
+      "cold and fever",
+      "fever remedy",
+      "pippali honey",
+      "antipyretic"
+    ]
+  },
+  {
+    "id": "ayur_saunf_001",
+    "name": "Saunf",
+    "botanical_name": "Foeniculum vulgare Mill.",
+    "synonyms": [
+      "Shatapushpha",
+      "Fennel"
+    ],
+    "condition": "Indigestion",
+    "remedy": [
+      "3-5 gm. powder with powder of fried Jeera and rock-salt with warm water thrice daily."
+    ],
+    "search_keywords": [
+      "upset stomach",
+      "saunf jeera rock salt",
+      "digestive powder",
+      "fennel seed remedy",
+      "indigestion relief"
+    ]
+  },
+  {
+    "id": "ayur_saunf_002",
+    "name": "Saunf",
+    "botanical_name": "Foeniculum vulgare Mill.",
+    "synonyms": [
+      "Shatapushpha",
+      "Fennel"
+    ],
+    "condition": "Diarrhoea / Dysentery",
+    "remedy": [
+      "3-5 gm. powder with butter milk 3-4 times daily."
+    ],
+    "search_keywords": [
+      "loose motions",
+      "gut health",
+      "saunf buttermilk",
+      "fennel seed powder",
+      "digestive disorder"
+    ]
+  },
+  {
+    "id": "ayur_saunf_003",
+    "name": "Saunf",
+    "botanical_name": "Foeniculum vulgare Mill.",
+    "synonyms": [
+      "Shatapushpha",
+      "Fennel"
+    ],
+    "condition": "Abdominal pain",
+    "remedy": [
+      "3-5 gm. powder with butter milk 3-4 times daily."
+    ],
+    "search_keywords": [
+      "stomach ache",
+      "stomach cramps",
+      "abdominal discomfort",
+      "saunf buttermilk",
+      "fennel for pain"
+    ]
+  },
+  {
+    "id": "ayur_saunf_004",
+    "name": "Saunf",
+    "botanical_name": "Foeniculum vulgare Mill.",
+    "synonyms": [
+      "Shatapushpha",
+      "Fennel"
+    ],
+    "condition": "Bad breath",
+    "remedy": [
+      "Little quantity should be chewed after food."
+    ],
+    "search_keywords": [
+      "halitosis",
+      "oral freshness",
+      "mouth freshener",
+      "chewing saunf",
+      "fennel seed breath"
+    ]
+  },
+  {
+    "id": "ayur_saunf_005",
+    "name": "Saunf",
+    "botanical_name": "Foeniculum vulgare Mill.",
+    "synonyms": [
+      "Shatapushpha",
+      "Fennel"
+    ],
+    "condition": "Loss of appetite",
+    "remedy": [
+      "3-5 gm. powder of roasted saunf with butter milk, little pepper powder & salt twice daily."
+    ],
+    "search_keywords": [
+      "low hunger",
+      "appetite stimulant",
+      "roasted saunf buttermilk",
+      "stimulate appetite",
+      "digestive tonic"
+    ]
+  },
+  {
+    "id": "ayur_tulsi_001",
+    "name": "Tulsi",
+    "botanical_name": "Ocimum sanctum",
+    "synonyms": [
+      "Tulasi",
+      "Holy Basil"
+    ],
+    "condition": "Cough / Cold",
+    "remedy": [
+      "5-10 ml. juice twice or thrice a day with honey."
+    ],
+    "search_keywords": [
+      "sore throat",
+      "nasal congestion",
+      "tulsi juice honey",
+      "cold immunity",
+      "natural cough syrup"
+    ]
+  },
+  {
+    "id": "ayur_tulsi_002",
+    "name": "Tulsi",
+    "botanical_name": "Ocimum sanctum",
+    "synonyms": [
+      "Tulasi",
+      "Holy Basil"
+    ],
+    "condition": "Fever",
+    "remedy": [
+      "30 ml. decoction from handful of leaves & 5 gm. Dhania thrice a day."
+    ],
+    "search_keywords": [
+      "antipyretic",
+      "fever reduction",
+      "tulsi dhania decoction",
+      "coriander leaves tea",
+      "viral fever"
+    ]
+  },
+  {
+    "id": "ayur_tulsi_003",
+    "name": "Tulsi",
+    "botanical_name": "Ocimum sanctum",
+    "synonyms": [
+      "Tulasi",
+      "Holy Basil"
+    ],
+    "condition": "Skin allergy",
+    "remedy": [
+      "5-10 ml. juice twice or thrice daily."
+    ],
+    "search_keywords": [
+      "itching",
+      "skin rashes",
+      "allergic reaction",
+      "tulsi leaf juice",
+      "blood purifier"
+    ]
+  },
+  {
+    "id": "ayur_tulsi_004",
+    "name": "Tulsi",
+    "botanical_name": "Ocimum sanctum",
+    "synonyms": [
+      "Tulasi",
+      "Holy Basil"
+    ],
+    "condition": "Indigestion / Loss of appetite",
+    "remedy": [
+      "5-10 ml. juice twice or thrice daily."
+    ],
+    "search_keywords": [
+      "upset stomach",
+      "low hunger",
+      "appetite stimulant",
+      "tulsi juice",
+      "digestive health"
+    ]
+  },
+  {
+    "id": "ayur_tulsi_005",
+    "name": "Tulsi",
+    "botanical_name": "Ocimum sanctum",
+    "synonyms": [
+      "Tulasi",
+      "Holy Basil"
+    ],
+    "condition": "Greying of hair",
+    "remedy": [
+      "Coconut oil processed with Tulsi juice for regular use."
+    ],
+    "search_keywords": [
+      "premature greying",
+      "grey hair prevention",
+      "tulsi coconut oil",
+      "hair care",
+      "natural hair tonic"
+    ]
+  },
+  {
+    "id": "ayur_tulsi_006",
+    "name": "Tulsi",
+    "botanical_name": "Ocimum sanctum",
+    "synonyms": [
+      "Tulasi",
+      "Holy Basil"
+    ],
+    "condition": "Wound / ulcer",
+    "remedy": [
+      "Juice mixed with honey & Haldi powder for application."
+    ],
+    "search_keywords": [
+      "topical healing",
+      "antiseptic paste",
+      "tulsi honey turmeric",
+      "wound healing",
+      "skin ulcer"
+    ]
+  },
+  {
+    "id": "ayur_tulsi_007",
+    "name": "Tulsi",
+    "botanical_name": "Ocimum sanctum",
+    "synonyms": [
+      "Tulasi",
+      "Holy Basil"
+    ],
+    "condition": "Ear pain",
+    "remedy": [
+      "2-3 luke warm drops 2 times daily (Do not use when there is discharge)."
+    ],
+    "safety_precautions": [
+      "Do not use when there is ear discharge."
+    ],
+    "search_keywords": [
+      "earache",
+      "ear infection",
+      "tulsi ear drops",
+      "lukewarm ear drops",
+      "soothing ear relief"
+    ]
+  }
+]

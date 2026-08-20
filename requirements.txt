@@ -1,0 +1,27 @@
+# Core LangChain
+langchain
+langchain-core
+langchain-community
+langchain-classic
+
+# LangChain components
+langchain-text-splitters
+langchain-chroma
+langchain-huggingface
+langchain-groq
+
+# PDF loading
+pypdf
+
+# Embeddings
+sentence-transformers
+huggingface_hub
+
+# Vector database
+chromadb
+
+# Environment variables
+python-dotenv
+
+streamlit
+bcrypt
