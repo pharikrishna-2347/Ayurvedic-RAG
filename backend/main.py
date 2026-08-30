@@ -255,9 +255,10 @@ async def google_login(request: Request):
 
     google = oauth.create_client("google")
 
-    redirect_uri = request.url_for(
-        "google_callback"
-    )
+    # redirect_uri = request.url_for(
+    #     "google_callback"
+    # )
+    redirect_uri = "https://ayurvedic-rag-production.up.railway.app/auth/google/callback"
 
     return await google.authorize_redirect(
         request,
