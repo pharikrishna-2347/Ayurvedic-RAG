@@ -14,5 +14,3 @@ rag.db
 
 *.log
 
-chromaDB/*.bin
-chromaDB/*.pkl

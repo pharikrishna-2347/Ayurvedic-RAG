@@ -15,7 +15,7 @@ from sentence_transformers import SentenceTransformer
 embedding_model = SentenceTransformer("all-MiniLM-L6-v2")
 
 # 2. Your list of 130 text chunks
-from text_splitter import docs
+from rag.text_splitter import docs
 text_chunks = [chunk.page_content for chunk in docs]
 
 # 3. Generate embeddings efficiently in batches

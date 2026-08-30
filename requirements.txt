@@ -25,7 +25,6 @@ chromadb
 # Environment variables
 python-dotenv
 
-streamlit
 bcrypt
 
 fastapi

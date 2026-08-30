@@ -3,8 +3,10 @@ from langchain_text_splitters import RecursiveJsonSplitter
 from langchain_core.documents import Document
 import json
 from torch.fx.passes import splitter_base
+from pathlib import Path
 
-with open("ayurvedic_data_clean.json", "r") as f:
+BASE_DIR = Path(__file__).resolve().parent
+with open(BASE_DIR / "ayurvedic_data_clean.json", "r") as f:
     data = json.load(f)
 docs = []
 for item in data:

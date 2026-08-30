@@ -32,7 +32,7 @@ from backend.oauth import oauth
 from backend.query_rewriter import rewrite_query
 
 app = FastAPI(
-    title = "Ayuredic RAG API",
+    title = "Ayurvedic RAG API",
     description = "Backend API for Ayurvedic RAG Assistant",
     version = "1.0.0"
 )
@@ -45,7 +45,7 @@ app.add_middleware(
 @app.get("/")
 def basic():
     return {
-        "message : Basic API Created successfully!"
+        "message" : "Basic API Created successfully!"
     }
 
 #Embedding model
