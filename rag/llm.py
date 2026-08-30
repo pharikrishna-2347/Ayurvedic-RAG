@@ -1,9 +1,17 @@
 from langchain_google_genai import ChatGoogleGenerativeAI
 from langchain_core.prompts import PromptTemplate
 from dotenv import load_dotenv
+from langchain_openai import ChatOpenAI
 load_dotenv()
 
-llm_model = ChatGoogleGenerativeAI(model="gemini-2.5-flash", temperature=0.7)
+from langchain_groq import ChatGroq
+
+# Initializes a true Groq backend client
+llm_model = ChatGroq(
+    model="openai/gpt-oss-120b",
+    temperature=0.2,
+    # Automatically tracks GROQ_API_KEY from environment
+)
 
 
 
@@ -35,8 +43,9 @@ Rules:
 - Keep answers concise and easy to read.
 - Use bullet points only when multiple remedies exist.
 - For follow-up questions, use the previous conversation history.
+- If the user query uses pronouns or vague terms (e.g., "What is the use of it?", "How to take it?"), look at the most recent questions and answers in the "Previous Conversation" history to determine exactly what "it" refers to before generating your response.
 
-Example:
+Example 1:
 
 User: Loose motions cure
 
@@ -51,6 +60,17 @@ User: What is the dosage?
 
 Assistant:
 For Jayphal, a pinch of powder mixed with milk or water may be taken 3–4 times a day.
+
+Example 2:
+
+Previous Conversation:
+User: Tell me about Ashwagandha.
+Assistant: Ashwagandha is an ancient medicinal herb known for managing stress and reducing anxiety.
+
+User: What is the use of it?
+
+Assistant:
+Ashwagandha is primarily used to calm the brain, reduce swelling, lower blood pressure, and boost the immune system.
 
 If the answer is unavailable, say:
 "I'm sorry, but I don't have verified Ayurvedic information for this request."
@@ -68,3 +88,8 @@ Answer:
 """,
     input_variables=["chat_history", "context", "query"]
 )
+
+
+"""
+
+"""

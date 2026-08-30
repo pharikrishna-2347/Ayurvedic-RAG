@@ -3,6 +3,8 @@ langchain
 langchain-core
 langchain-community
 langchain-classic
+langchain-google-genai
+
 
 # LangChain components
 langchain-text-splitters
@@ -25,3 +27,14 @@ python-dotenv
 
 streamlit
 bcrypt
+
+fastapi
+uvicorn
+
+pydantic
+
+sqlalchemy
+psycopg2-binary
+
+authlib
+itsdangerous

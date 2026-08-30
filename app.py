@@ -1,10 +1,10 @@
 import streamlit as st
 import bcrypt
-from retriever import retriever
-from llm import llm_model,PROMPT
-from cleaner import format_retrieved_docs
-from memory import format_chat_history
-from database import (
+from rag.retriever import retriever
+from rag.llm import llm_model,PROMPT
+from rag.cleaner import format_retrieved_docs
+from rag.memory import format_chat_history
+from userData.database import (
     register_user,
     login_user,
     save_message,
