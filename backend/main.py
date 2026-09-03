@@ -1,5 +1,6 @@
 from fastapi import FastAPI
 from pydantic import BaseModel
+from fastapi.middleware.cors import CORSMiddleware
 
 from langchain_huggingface import HuggingFaceEmbeddings
 
@@ -39,8 +40,23 @@ app = FastAPI(
 
 app.add_middleware(
     SessionMiddleware,
-    secret_key=os.getenv("SESSION_SECRET")
+    secret_key=os.getenv("SESSION_SECRET"),
+    same_site="none",      # required so the session cookie works from your Lovable frontend
+    https_only=True,
 )
+
+app.add_middleware(
+    CORSMiddleware,
+    allow_origins=[
+        "https://ayurcare-wellness-guide.lovable.app",
+        "https://id-preview--eed8cbec-dc24-4eec-8fc9-f71dcbc4dcd2.lovable.app",
+        "http://localhost:8080",
+    ],
+    allow_credentials=True,
+    allow_methods=["*"],
+    allow_headers=["*"],
+)
+
 
 @app.get("/")
 def basic():
