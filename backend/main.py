@@ -1,6 +1,7 @@
 from fastapi import FastAPI
 from pydantic import BaseModel
 from fastapi.middleware.cors import CORSMiddleware
+from fastapi.responses import RedirectResponse
 
 from langchain_huggingface import HuggingFaceEmbeddings
 
@@ -323,12 +324,13 @@ async def google_callback(
     # Store user ID in session
     request.session["user_id"] = user.id
 
-    return {
-        "message": "Login successful",
-        "user_id": user.id,
-        "email": user.email,
-        "name": user.name
-    }
+       # Store user ID in session
+    request.session["user_id"] = user.id
+
+    # Redirect back to Lovable frontend
+    return RedirectResponse(
+        "https://ayurcare-wellness-guide.lovable.app"
+    )
 
 
 @app.get("/auth/me")
