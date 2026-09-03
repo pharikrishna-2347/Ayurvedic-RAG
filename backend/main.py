@@ -49,8 +49,7 @@ app.add_middleware(
 app.add_middleware(
     CORSMiddleware,
     allow_origins=[
-        "https://ayurcare-wellness-guide.lovable.app",
-        "https://id-preview--eed8cbec-dc24-4eec-8fc9-f71dcbc4dcd2.lovable.app",
+        "https://ayur-care-frontend.vercel.app",
         "http://localhost:8080",
     ],
     allow_credentials=True,
@@ -329,7 +328,7 @@ async def google_callback(
 
     # Redirect back to Lovable frontend
     return RedirectResponse(
-        "https://ayurcare-wellness-guide.lovable.app"
+        "https://ayur-care-frontend.vercel.app"
     )
 
 
